@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1780855232508",
+    "amount": 1000,
+    "category": "Transport",
+    "date": "2026-06-01",
+    "note": ""
+  },
+  {
+    "id": "1780855243118",
+    "amount": 2000,
+    "category": "Entertainment",
+    "date": "2026-06-02",
+    "note": ""
+  },
+  {
+    "id": "1780856534479",
+    "amount": null,
+    "category": "Transport",
+    "date": "2026-06-02",
+    "note": "sdfas"
+  },
+  {
+    "id": "1780856661932",
+    "amount": 2,
+    "category": "Transport",
+    "date": "2026-06-04",
+    "note": ""
+  },
+  {
+    "id": "1780856818398",
+    "amount": 345324,
+    "category": "Transport",
+    "date": "2026-06-02",
+    "note": "345234"
+  }
+]
